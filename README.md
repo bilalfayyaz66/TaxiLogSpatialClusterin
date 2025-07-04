@@ -1,6 +1,7 @@
 TaxiLogSpatialClustering
 This repository contains the implementation of Assignment #1 for the Big Data Analysis Summer course. The project analyzes taxi GPS log data from February 2–8, 2008, to identify spatial clusters using the DBSCAN algorithm. The analysis includes data preprocessing, visualization, spatial hashing, candidate pair generation, and clustering evaluation.
 
+
 Table of Contents
 Project Overview
 Dataset
